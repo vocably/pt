@@ -1,0 +1,6 @@
+rulers
+governors
+leaders
+authorities
+administrators
+statesmen

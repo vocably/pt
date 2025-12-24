@@ -1,0 +1,5 @@
+ruler
+governor
+leader
+administrator
+statesman
