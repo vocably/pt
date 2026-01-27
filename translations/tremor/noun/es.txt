@@ -1,0 +1,3 @@
+temblor
+terremoto
+estremecimiento

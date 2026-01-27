@@ -1,0 +1,4 @@
+caballo
+corcel
+bruto
+caballito

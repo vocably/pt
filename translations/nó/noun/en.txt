@@ -1,0 +1,4 @@
+knot
+joint
+lump
+knot (unit of speed)

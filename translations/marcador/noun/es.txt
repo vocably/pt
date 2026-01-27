@@ -1,0 +1,4 @@
+marcador
+rotulador
+destacador
+señalador

@@ -1,0 +1,4 @@
+banco
+entidad financiera
+mesa de trabajo
+banco de arena

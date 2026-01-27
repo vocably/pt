@@ -1,0 +1,4 @@
+tira
+carril
+franja
+pista

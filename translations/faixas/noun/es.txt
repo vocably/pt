@@ -1,0 +1,4 @@
+tiras
+carriles
+pistas
+franjas

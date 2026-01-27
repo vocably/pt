@@ -1,0 +1,4 @@
+sense
+meaning
+direction
+reason
