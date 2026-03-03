@@ -1,0 +1,4 @@
+asiento
+base
+acta
+sensatez
