@@ -1,0 +1,1 @@
+["poznat","uznat","ocenit","prozkoumat"]
