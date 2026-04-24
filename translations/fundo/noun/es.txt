@@ -1,0 +1,4 @@
+fondo
+trasero
+capital
+esencia
