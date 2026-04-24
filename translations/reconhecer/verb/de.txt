@@ -1,1 +1,4 @@
-["erkennen","anerkennen","wiedererkennen","dankbar sein"]
+erkennen
+anerkennen
+wiedererkennen
+dankbar sein

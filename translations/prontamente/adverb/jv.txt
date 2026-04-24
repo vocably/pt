@@ -1,1 +1,3 @@
-["enggal","gelis","sigra"]
+enggal
+gelis
+sigra

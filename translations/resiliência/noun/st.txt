@@ -1,1 +1,2 @@
-["mamello","boikemelo"]
+mamello
+boikemelo

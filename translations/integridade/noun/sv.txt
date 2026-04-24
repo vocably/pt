@@ -1,1 +1,3 @@
-["integritet","helhet","oskadat skick"]
+integritet
+helhet
+oskadat skick

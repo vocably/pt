@@ -1,1 +1,3 @@
-["seuil","linteau","commencement"]
+seuil
+linteau
+commencement

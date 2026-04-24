@@ -1,1 +1,3 @@
-["əks-səda","nəticə","təsir"]
+əks-səda
+nəticə
+təsir

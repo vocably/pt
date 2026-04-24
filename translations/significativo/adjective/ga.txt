@@ -1,1 +1,3 @@
-["tábhachtach","suntasach","sách mór"]
+tábhachtach
+suntasach
+sách mór

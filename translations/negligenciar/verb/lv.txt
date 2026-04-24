@@ -1,1 +1,3 @@
-["negligēt","atstāt novārtā","neievērot"]
+negligēt
+atstāt novārtā
+neievērot

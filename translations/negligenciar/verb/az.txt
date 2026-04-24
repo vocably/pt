@@ -1,1 +1,3 @@
-["laqeyd yanaşmaq","əhəmiyyət verməmək","diqqətsiz olmaq"]
+laqeyd yanaşmaq
+əhəmiyyət verməmək
+diqqətsiz olmaq

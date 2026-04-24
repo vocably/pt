@@ -1,1 +1,4 @@
-["meeleolu","paigutus","korraldus","säte"]
+meeleolu
+paigutus
+korraldus
+säte

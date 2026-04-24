@@ -1,1 +1,3 @@
-["menarik","mempesonakan","cantik"]
+menarik
+mempesonakan
+cantik

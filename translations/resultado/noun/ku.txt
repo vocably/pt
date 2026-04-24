@@ -1,1 +1,3 @@
-["encam","berhem","netîce"]
+encam
+berhem
+netîce

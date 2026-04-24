@@ -1,1 +1,4 @@
-["ịmata","ịnakwere","ịghọta","ịja mma"]
+ịmata
+ịnakwere
+ịghọta
+ịja mma

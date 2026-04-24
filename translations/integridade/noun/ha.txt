@@ -1,1 +1,3 @@
-["cikakken","gaskiya","inganci"]
+cikakken
+gaskiya
+inganci

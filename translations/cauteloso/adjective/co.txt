@@ -1,1 +1,2 @@
-["cautellosu","prudente"]
+cautellosu
+prudente

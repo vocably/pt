@@ -1,1 +1,2 @@
-["qëndrueshmëri","elasticitet"]
+qëndrueshmëri
+elasticitet

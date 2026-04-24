@@ -1,1 +1,2 @@
-["faasino","lemu"]
+faasino
+lemu

@@ -1,1 +1,3 @@
-["notevolment","b'mod notevoli","konsiderevolment"]
+notevolment
+b'mod notevoli
+konsiderevolment

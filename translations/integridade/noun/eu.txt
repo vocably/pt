@@ -1,1 +1,3 @@
-["osotasun","zuzentasun","kaltegabeko"]
+osotasun
+zuzentasun
+kaltegabeko

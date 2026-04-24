@@ -1,1 +1,3 @@
-["umphumela","isimo","ithonya"]
+umphumela
+isimo
+ithonya

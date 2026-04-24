@@ -1,1 +1,3 @@
-["ngresepake","endah","ngengsemake"]
+ngresepake
+endah
+ngengsemake

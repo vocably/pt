@@ -1,1 +1,3 @@
-["touswit","san pèdi tan","rapidman"]
+touswit
+san pèdi tan
+rapidman

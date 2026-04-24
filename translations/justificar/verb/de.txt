@@ -1,1 +1,3 @@
-["rechtfertigen","begründen","ausrichten"]
+rechtfertigen
+begründen
+ausrichten

@@ -1,1 +1,3 @@
-["ngưỡng cửa","ngưỡng","điểm khởi đầu"]
+ngưỡng cửa
+ngưỡng
+điểm khởi đầu

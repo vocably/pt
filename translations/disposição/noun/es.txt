@@ -1,1 +1,4 @@
-["disposición","ánimo","arreglo","ordenación"]
+disposición
+ánimo
+arreglo
+ordenación

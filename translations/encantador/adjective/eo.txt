@@ -1,1 +1,3 @@
-["ĉarma","ravanta","sorĉa"]
+ĉarma
+ravanta
+sorĉa

@@ -1,1 +1,4 @@
-["nálada","rozpoložení","uspořádání","ustanovení"]
+nálada
+rozpoložení
+uspořádání
+ustanovení

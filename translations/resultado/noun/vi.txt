@@ -1,1 +1,3 @@
-["kết quả","hậu quả","đáp số"]
+kết quả
+hậu quả
+đáp số

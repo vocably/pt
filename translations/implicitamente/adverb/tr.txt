@@ -1,1 +1,2 @@
-["üstü kapalı","zımnen"]
+üstü kapalı
+zımnen

@@ -1,1 +1,2 @@
-["nënkuptueshëm","tërthorazi"]
+nënkuptueshëm
+tërthorazi

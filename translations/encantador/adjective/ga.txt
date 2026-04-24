@@ -1,1 +1,3 @@
-["aoibhinn","álainn","suairc"]
+aoibhinn
+álainn
+suairc

@@ -1,1 +1,3 @@
-["matak","pikaresepeun","dipikaresep"]
+matak
+pikaresepeun
+dipikaresep

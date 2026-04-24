@@ -1,1 +1,3 @@
-["laiminlyödä","jättää huomiotta","väheksyä"]
+laiminlyödä
+jättää huomiotta
+väheksyä

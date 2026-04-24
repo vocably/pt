@@ -1,1 +1,4 @@
-["tunda ära","tunnistada","olla tänulik","uurida"]
+tunda ära
+tunnistada
+olla tänulik
+uurida

@@ -1,1 +1,2 @@
-["Belastbarkeit","Widerstandsfähigkeit"]
+Belastbarkeit
+Widerstandsfähigkeit

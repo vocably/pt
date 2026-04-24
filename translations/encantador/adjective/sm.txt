@@ -1,1 +1,3 @@
-["matagofie","faatosina","lalelei"]
+matagofie
+faatosina
+lalelei

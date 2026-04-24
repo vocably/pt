@@ -1,1 +1,4 @@
-["ngakoni","nampa","matur nuwun","neliti"]
+ngakoni
+nampa
+matur nuwun
+neliti

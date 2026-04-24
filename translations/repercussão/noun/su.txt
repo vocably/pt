@@ -1,1 +1,3 @@
-["balukar","gema","pangaruh"]
+balukar
+gema
+pangaruh

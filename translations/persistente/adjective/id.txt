@@ -1,1 +1,3 @@
-["gigih","ulet","tekun"]
+gigih
+ulet
+tekun

@@ -1,1 +1,3 @@
-["aʻafiaga","tali","faatosinaga"]
+aʻafiaga
+tali
+faatosinaga

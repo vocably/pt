@@ -1,1 +1,3 @@
-["oýlanmak","hasaplamak","göz öňünde tutmak"]
+oýlanmak
+hasaplamak
+göz öňünde tutmak

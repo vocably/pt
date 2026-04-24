@@ -1,1 +1,3 @@
-["trothwy","dechrau","ffin"]
+trothwy
+dechrau
+ffin

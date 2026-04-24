@@ -1,1 +1,2 @@
-["gu so-thuigsinn","gu neo-fhollaiseach"]
+gu so-thuigsinn
+gu neo-fhollaiseach

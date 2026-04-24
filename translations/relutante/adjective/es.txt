@@ -1,1 +1,3 @@
-["reacio","renuente","reticente"]
+reacio
+renuente
+reticente

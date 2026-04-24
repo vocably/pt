@@ -1,1 +1,3 @@
-["gefolch","weromslach","ynfloed"]
+gefolch
+weromslach
+ynfloed

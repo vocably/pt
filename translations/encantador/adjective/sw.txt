@@ -1,1 +1,3 @@
-["haiba","mchawi","mzuri"]
+haiba
+mchawi
+mzuri

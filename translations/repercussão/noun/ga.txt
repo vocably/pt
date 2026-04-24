@@ -1,1 +1,3 @@
-["iarmhairt","macalla","tionchar"]
+iarmhairt
+macalla
+tionchar

@@ -1,1 +1,3 @@
-["negligi","forlasi","preterlasi"]
+negligi
+forlasi
+preterlasi

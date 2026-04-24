@@ -1,1 +1,3 @@
-["notabelt","märkbart","betydligt"]
+notabelt
+märkbart
+betydligt

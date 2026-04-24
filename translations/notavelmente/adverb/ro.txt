@@ -1,1 +1,3 @@
-["notabil","considerabil","în mod remarcabil"]
+notabil
+considerabil
+în mod remarcabil

@@ -1,1 +1,3 @@
-["raskt","øyeblikkelig","omgående"]
+raskt
+øyeblikkelig
+omgående

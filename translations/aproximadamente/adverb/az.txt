@@ -1,1 +1,2 @@
-["təqribən","təxminən"]
+təqribən
+təxminən

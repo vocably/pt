@@ -1,1 +1,2 @@
-["rezilyans","detant"]
+rezilyans
+detant

@@ -1,1 +1,3 @@
-["gembleng","cageur","utuh"]
+gembleng
+cageur
+utuh

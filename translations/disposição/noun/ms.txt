@@ -1,1 +1,4 @@
-["susunan","keadaan","semangat","ketentuan"]
+susunan
+keadaan
+semangat
+ketentuan

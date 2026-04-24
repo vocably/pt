@@ -1,1 +1,3 @@
-["fa'atamala","le amana'ia","tu'ulafoa'i"]
+fa'atamala
+le amana'ia
+tu'ulafoa'i

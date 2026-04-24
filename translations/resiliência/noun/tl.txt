@@ -1,1 +1,2 @@
-["katatagan","resiliensiya"]
+katatagan
+resiliensiya

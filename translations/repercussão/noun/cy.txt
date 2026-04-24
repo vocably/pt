@@ -1,1 +1,3 @@
-["atseinio","effaith","canlyniad"]
+atseinio
+effaith
+canlyniad

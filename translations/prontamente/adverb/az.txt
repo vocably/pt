@@ -1,1 +1,3 @@
-["tez bir zamanda","dərhal","cəld"]
+tez bir zamanda
+dərhal
+cəld

@@ -1,1 +1,3 @@
-["incantevole","affascinante","delizioso"]
+incantevole
+affascinante
+delizioso

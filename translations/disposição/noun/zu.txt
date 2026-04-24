@@ -1,1 +1,4 @@
-["isimo","ukulungiselela","amandla","umthetho"]
+isimo
+ukulungiselela
+amandla
+umthetho

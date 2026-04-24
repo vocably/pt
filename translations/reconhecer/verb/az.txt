@@ -1,1 +1,4 @@
-["tanımaq","etiraf etmək","minnətdarlıq etmək","araşdırmaq"]
+tanımaq
+etiraf etmək
+minnətdarlıq etmək
+araşdırmaq

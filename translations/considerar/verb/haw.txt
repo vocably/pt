@@ -1,1 +1,3 @@
-["noonoo","manaʻo","noʻonoʻo"]
+noonoo
+manaʻo
+noʻonoʻo

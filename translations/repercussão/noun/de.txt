@@ -1,1 +1,3 @@
-["Auswirkung","Folge","Nachhall"]
+Auswirkung
+Folge
+Nachhall

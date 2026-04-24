@@ -1,1 +1,3 @@
-["umkhonde","isiqalo","umda"]
+umkhonde
+isiqalo
+umda

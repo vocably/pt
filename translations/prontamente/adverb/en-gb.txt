@@ -1,1 +1,3 @@
-["promptly","readily","swiftly"]
+promptly
+readily
+swiftly

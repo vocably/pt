@@ -1,1 +1,3 @@
-["leisg","neo-dheònach","droch-dheònach"]
+leisg
+neo-dheònach
+droch-dheònach

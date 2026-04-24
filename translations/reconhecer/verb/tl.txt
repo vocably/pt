@@ -1,1 +1,4 @@
-["kilalanin","tanggapin","pahalagahan","suriin"]
+kilalanin
+tanggapin
+pahalagahan
+suriin

@@ -1,1 +1,3 @@
-["umnyango","isiqalo","izinga eliphansi"]
+umnyango
+isiqalo
+izinga eliphansi

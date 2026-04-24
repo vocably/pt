@@ -1,1 +1,3 @@
-["tiisetsang","sa feleng","tsitsitseng"]
+tiisetsang
+sa feleng
+tsitsitseng

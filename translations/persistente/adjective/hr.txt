@@ -1,1 +1,3 @@
-["uporan","ustrajan","dugotrajan"]
+uporan
+ustrajan
+dugotrajan

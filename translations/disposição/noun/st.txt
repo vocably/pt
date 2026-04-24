@@ -1,1 +1,4 @@
-["boikutlo","tokisetso","thato","molao"]
+boikutlo
+tokisetso
+thato
+molao

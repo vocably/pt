@@ -1,1 +1,3 @@
-["rezulto","konsekvenco","solvo"]
+rezulto
+konsekvenco
+solvo

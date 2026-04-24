@@ -1,1 +1,3 @@
-["umuhle","onobuhle","ohehayo"]
+umuhle
+onobuhle
+ohehayo

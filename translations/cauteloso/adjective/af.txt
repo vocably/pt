@@ -1,1 +1,2 @@
-["versigtig","voorsorg"]
+versigtig
+voorsorg

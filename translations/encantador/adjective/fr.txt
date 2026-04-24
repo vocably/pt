@@ -1,1 +1,3 @@
-["charmant","enchanteur","ravissant"]
+charmant
+enchanteur
+ravissant

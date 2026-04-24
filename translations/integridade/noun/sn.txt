@@ -1,1 +1,3 @@
-["kuperera","kururama","kusakanganisika"]
+kuperera
+kururama
+kusakanganisika

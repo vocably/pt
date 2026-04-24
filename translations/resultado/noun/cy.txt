@@ -1,1 +1,3 @@
-["canlyniad","effaith","sgil-effaith"]
+canlyniad
+effaith
+sgil-effaith

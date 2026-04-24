@@ -1,1 +1,3 @@
-["okamžitě","ihned","rychle"]
+okamžitě
+ihned
+rychle

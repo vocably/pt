@@ -1,1 +1,3 @@
-["sekvo","eĥo","influo"]
+sekvo
+eĥo
+influo

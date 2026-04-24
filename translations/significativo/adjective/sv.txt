@@ -1,1 +1,3 @@
-["betydande","meningsfull","avsevärd"]
+betydande
+meningsfull
+avsevärd

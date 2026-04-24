@@ -1,1 +1,3 @@
-["encantador","fascinante","engaiolante"]
+encantador
+fascinante
+engaiolante

@@ -1,1 +1,3 @@
-["rezultat","pasojë","fund"]
+rezultat
+pasojë
+fund

@@ -1,1 +1,2 @@
-["implicite","domyślnie"]
+implicite
+domyślnie

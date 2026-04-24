@@ -1,1 +1,3 @@
-["mlango","mwanzo","kiwango"]
+mlango
+mwanzo
+kiwango

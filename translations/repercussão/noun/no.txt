@@ -1,1 +1,3 @@
-["ettervirkning","konsekvens","gjenklang"]
+ettervirkning
+konsekvens
+gjenklang

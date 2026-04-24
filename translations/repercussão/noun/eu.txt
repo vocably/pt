@@ -1,1 +1,3 @@
-["eragin","ondorio","oihartzun"]
+eragin
+ondorio
+oihartzun

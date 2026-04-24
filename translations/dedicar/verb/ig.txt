@@ -1,1 +1,3 @@
-["nye","ra","do"]
+nye
+ra
+do

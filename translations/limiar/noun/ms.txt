@@ -1,1 +1,3 @@
-["ambang","permulaan","takat"]
+ambang
+permulaan
+takat

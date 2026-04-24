@@ -1,1 +1,3 @@
-["nag-aatubili","ayaw","tutol"]
+nag-aatubili
+ayaw
+tutol

@@ -1,1 +1,3 @@
-["haholo","ka ho hlokomeleha","ka mokhoa o hlokomelehang"]
+haholo
+ka ho hlokomeleha
+ka mokhoa o hlokomelehang

@@ -1,1 +1,3 @@
-["kompleteco","integreco","sendifekteco"]
+kompleteco
+integreco
+sendifekteco

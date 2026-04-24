@@ -1,1 +1,2 @@
-["atsargus","apreižus"]
+atsargus
+apreižus

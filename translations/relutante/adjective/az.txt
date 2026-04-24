@@ -1,1 +1,3 @@
-["istəksiz","tərəddüdlü","müqavimət göstərən"]
+istəksiz
+tərəddüdlü
+müqavimət göstərən

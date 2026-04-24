@@ -1,1 +1,3 @@
-["toradh","éifeacht","críoch"]
+toradh
+éifeacht
+críoch

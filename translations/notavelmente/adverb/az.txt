@@ -1,1 +1,3 @@
-["xüsusilə","qeyri-adi şəkildə","olduqca"]
+xüsusilə
+qeyri-adi şəkildə
+olduqca

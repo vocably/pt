@@ -1,1 +1,3 @@
-["pasojë","jehonë","ndikim"]
+pasojë
+jehonë
+ndikim

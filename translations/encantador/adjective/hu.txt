@@ -1,1 +1,3 @@
-["bájos","elbűvölő","csinos"]
+bájos
+elbűvölő
+csinos

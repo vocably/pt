@@ -1,1 +1,3 @@
-["yn nodedig","yn sylweddol","yn arbennig"]
+yn nodedig
+yn sylweddol
+yn arbennig

@@ -1,1 +1,4 @@
-["gjenkjenne","erkjenne","anerkjenne","takke"]
+gjenkjenne
+erkjenne
+anerkjenne
+takke

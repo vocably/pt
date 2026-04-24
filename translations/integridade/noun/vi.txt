@@ -1,1 +1,3 @@
-["tính toàn vẹn","tính chính trực","tình trạng nguyên vẹn"]
+tính toàn vẹn
+tính chính trực
+tình trạng nguyên vẹn

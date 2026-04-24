@@ -1,1 +1,3 @@
-["atgarsis","pasekmė","aidėjimas"]
+atgarsis
+pasekmė
+aidėjimas

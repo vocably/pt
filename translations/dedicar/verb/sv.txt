@@ -1,1 +1,3 @@
-["ägna","tillägnar","hänge sig"]
+ägna
+tillägnar
+hänge sig

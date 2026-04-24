@@ -1,1 +1,3 @@
-["posvetiti","nameniti","predati se"]
+posvetiti
+nameniti
+predati se

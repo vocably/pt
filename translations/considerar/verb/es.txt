@@ -1,1 +1,3 @@
-["considerar","juzgar","tener en cuenta"]
+considerar
+juzgar
+tener en cuenta

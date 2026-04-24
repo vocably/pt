@@ -1,1 +1,3 @@
-["na-ala azụ","na-eguzogide","na-achọghị"]
+na-ala azụ
+na-eguzogide
+na-achọghị

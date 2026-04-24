@@ -1,1 +1,3 @@
-["weerbarstig","onwillig","aarzelend"]
+weerbarstig
+onwillig
+aarzelend

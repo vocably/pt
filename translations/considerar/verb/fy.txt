@@ -1,1 +1,3 @@
-["beskôgje","achtje","rekkenje"]
+beskôgje
+achtje
+rekkenje

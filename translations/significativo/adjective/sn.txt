@@ -1,1 +1,3 @@
-["chinjikano","chakakosha","chinoshamisa"]
+chinjikano
+chakakosha
+chinoshamisa

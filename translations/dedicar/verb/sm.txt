@@ -1,1 +1,3 @@
-["faʻapaʻia","tuʻuina atu","faʻamaoni"]
+faʻapaʻia
+tuʻuina atu
+faʻamaoni

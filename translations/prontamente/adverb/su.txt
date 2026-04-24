@@ -1,1 +1,3 @@
-["gancang","enggal","buruburu"]
+gancang
+enggal
+buruburu

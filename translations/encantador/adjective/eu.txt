@@ -1,1 +1,3 @@
-["xarmagarri","liluragarri","eder"]
+xarmagarri
+liluragarri
+eder

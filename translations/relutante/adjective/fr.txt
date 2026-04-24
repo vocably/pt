@@ -1,1 +1,3 @@
-["hésitant","réticent","réfractaire"]
+hésitant
+réticent
+réfractaire

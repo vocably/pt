@@ -1,1 +1,3 @@
-["kaagad","agad","mabilis"]
+kaagad
+agad
+mabilis

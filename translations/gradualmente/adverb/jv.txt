@@ -1,1 +1,2 @@
-["alon-alon","sithik-sithik"]
+alon-alon
+sithik-sithik

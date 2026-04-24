@@ -1,1 +1,3 @@
-["dørtrin","tærskel","begyndelse"]
+dørtrin
+tærskel
+begyndelse

@@ -1,1 +1,4 @@
-["lagona","faatulagaga","malosi","tulafono"]
+lagona
+faatulagaga
+malosi
+tulafono

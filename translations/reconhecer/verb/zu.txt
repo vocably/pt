@@ -1,1 +1,4 @@
-["ukubona","ukuvuma","ukubonga","ukuhlola"]
+ukubona
+ukuvuma
+ukubonga
+ukuhlola

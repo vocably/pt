@@ -1,1 +1,2 @@
-["okubanzi","okuphelele"]
+okubanzi
+okuphelele

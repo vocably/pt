@@ -1,1 +1,3 @@
-["försumma","negligera","åsidosätta"]
+försumma
+negligera
+åsidosätta

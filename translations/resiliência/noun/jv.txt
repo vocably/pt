@@ -1,1 +1,2 @@
-["daya lentur","daya tahan"]
+daya lentur
+daya tahan

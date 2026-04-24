@@ -1,1 +1,3 @@
-["nabarmenki","aipagarriro","kontuan hartzekoa"]
+nabarmenki
+aipagarriro
+kontuan hartzekoa

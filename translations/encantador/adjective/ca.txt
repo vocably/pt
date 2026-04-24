@@ -1,1 +1,3 @@
-["encantador","fascinant","atractiu"]
+encantador
+fascinant
+atractiu

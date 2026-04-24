@@ -1,1 +1,3 @@
-["ongafuni","ongabambezeli","ongavumi"]
+ongafuni
+ongabambezeli
+ongavumi

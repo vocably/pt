@@ -1,1 +1,3 @@
-["buaidh","toradh","crìoch"]
+buaidh
+toradh
+crìoch

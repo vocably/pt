@@ -1,1 +1,3 @@
-["tsimikizira","fotokoza","konza"]
+tsimikizira
+fotokoza
+konza

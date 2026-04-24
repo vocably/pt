@@ -1,1 +1,3 @@
-["osobito","iznimno","znatno"]
+osobito
+iznimno
+znatno

@@ -1,1 +1,3 @@
-["ntxim nyiam","zoo nkauj","ua rau xav tsis thoob"]
+ntxim nyiam
+zoo nkauj
+ua rau xav tsis thoob

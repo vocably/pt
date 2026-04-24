@@ -1,1 +1,3 @@
-["rezilta","konsekans","dekouvèt"]
+rezilta
+konsekans
+dekouvèt

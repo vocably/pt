@@ -1,1 +1,3 @@
-["musu","faatuai","faalotolotolua"]
+musu
+faatuai
+faalotolotolua

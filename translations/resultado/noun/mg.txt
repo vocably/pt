@@ -1,1 +1,3 @@
-["vokatra","tsoa-kazo","fifaranana"]
+vokatra
+tsoa-kazo
+fifaranana

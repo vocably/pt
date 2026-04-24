@@ -1,1 +1,3 @@
-["jelentősen","figyelemre méltóan","tekintélyesen"]
+jelentősen
+figyelemre méltóan
+tekintélyesen

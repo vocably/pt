@@ -1,1 +1,4 @@
-["spiorad","ordú","fuinneamh","foráil"]
+spiorad
+ordú
+fuinneamh
+foráil

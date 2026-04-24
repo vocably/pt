@@ -1,1 +1,3 @@
-["bem","betydeligt","markant"]
+bem
+betydeligt
+markant

@@ -1,1 +1,3 @@
-["gu luath","sa bhad","gun dàil"]
+gu luath
+sa bhad
+gun dàil

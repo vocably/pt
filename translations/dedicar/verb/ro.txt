@@ -1,1 +1,3 @@
-["a dedica","a consacra","a devota"]
+a dedica
+a consacra
+a devota

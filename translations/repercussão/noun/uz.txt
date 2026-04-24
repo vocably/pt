@@ -1,1 +1,3 @@
-["aks-sado","ta-sir","ja-ngi-rish"]
+aks-sado
+ta-sir
+ja-ngi-rish

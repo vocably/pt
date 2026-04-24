@@ -1,1 +1,4 @@
-["maganizo","makonzedwe","mphamvu","lamulo"]
+maganizo
+makonzedwe
+mphamvu
+lamulo

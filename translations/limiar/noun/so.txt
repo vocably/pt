@@ -1,1 +1,3 @@
-["marinka","bilic","xadka"]
+marinka
+bilic
+xadka

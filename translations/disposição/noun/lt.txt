@@ -1,1 +1,4 @@
-["nuotaika","išdėstymas","noras","potvarkis"]
+nuotaika
+išdėstymas
+noras
+potvarkis

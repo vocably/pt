@@ -1,1 +1,4 @@
-["suasana hati","pengaturan","kemauan","ketentuan"]
+suasana hati
+pengaturan
+kemauan
+ketentuan

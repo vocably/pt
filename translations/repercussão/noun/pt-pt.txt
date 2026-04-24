@@ -1,1 +1,3 @@
-["repercussão","eco","impacto"]
+repercussão
+eco
+impacto

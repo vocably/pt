@@ -1,1 +1,3 @@
-["gigih","ulet","lestari"]
+gigih
+ulet
+lestari

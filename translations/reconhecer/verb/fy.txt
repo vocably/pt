@@ -1,1 +1,4 @@
-["weromkenne","erkennen","bekenne","ûndersykje"]
+weromkenne
+erkennen
+bekenne
+ûndersykje

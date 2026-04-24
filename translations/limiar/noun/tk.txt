@@ -1,1 +1,3 @@
-["bosaga","başlangyç","minimum dereje"]
+bosaga
+başlangyç
+minimum dereje

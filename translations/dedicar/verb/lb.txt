@@ -1,1 +1,3 @@
-["widmen","opferen","engagéieren"]
+widmen
+opferen
+engagéieren

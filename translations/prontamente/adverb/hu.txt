@@ -1,1 +1,3 @@
-["azonnal","haladéktalanul","késedelem nélkül"]
+azonnal
+haladéktalanul
+késedelem nélkül

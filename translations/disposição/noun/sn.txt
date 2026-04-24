@@ -1,1 +1,4 @@
-["mafungiro","kurongeka","simba","mitemo"]
+mafungiro
+kurongeka
+simba
+mitemo

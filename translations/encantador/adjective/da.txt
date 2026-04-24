@@ -1,1 +1,3 @@
-["fortryllende","charmerende","fascinerende"]
+fortryllende
+charmerende
+fascinerende

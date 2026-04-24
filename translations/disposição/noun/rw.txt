@@ -1,1 +1,4 @@
-["ubushake","imiterere","imbaraga","itegeko"]
+ubushake
+imiterere
+imbaraga
+itegeko

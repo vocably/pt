@@ -1,1 +1,3 @@
-["persistent","îndârjit","durabil"]
+persistent
+îndârjit
+durabil

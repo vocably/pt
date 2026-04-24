@@ -1,1 +1,4 @@
-["aithnigh","admhaigh","dearbhaigh","léirigh buíochas"]
+aithnigh
+admhaigh
+dearbhaigh
+léirigh buíochas

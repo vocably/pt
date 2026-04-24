@@ -1,1 +1,3 @@
-["chodabwitsa","kwambiri","mopambana"]
+chodabwitsa
+kwambiri
+mopambana

@@ -1,1 +1,3 @@
-["ʻIke nui","ʻIke ʻia","Kaulana"]
+ʻIke nui
+ʻIke ʻia
+Kaulana

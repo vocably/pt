@@ -1,1 +1,3 @@
-["terutamanya","khususnya","dengan ketara"]
+terutamanya
+khususnya
+dengan ketara

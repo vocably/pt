@@ -1,1 +1,2 @@
-["ballaadhan","khamiis"]
+ballaadhan
+khamiis

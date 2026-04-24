@@ -1,1 +1,2 @@
-["comprensivo","vasto"]
+comprensivo
+vasto

@@ -1,1 +1,3 @@
-["charmant","zauberhaft","faszinéierend"]
+charmant
+zauberhaft
+faszinéierend

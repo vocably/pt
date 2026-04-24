@@ -1,1 +1,3 @@
-["betekenisvol","significant","aanzienlijk"]
+betekenisvol
+significant
+aanzienlijk

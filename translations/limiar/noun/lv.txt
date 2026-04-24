@@ -1,1 +1,3 @@
-["slieksnis","sākums","robeža"]
+slieksnis
+sākums
+robeža

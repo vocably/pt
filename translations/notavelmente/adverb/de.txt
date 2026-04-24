@@ -1,1 +1,3 @@
-["bem","muito","consideravelmente"]
+bem
+muito
+consideravelmente

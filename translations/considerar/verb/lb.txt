@@ -1,1 +1,3 @@
-["betruechten","halen","rechnen"]
+betruechten
+halen
+rechnen

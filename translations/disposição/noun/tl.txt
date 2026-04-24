@@ -1,1 +1,4 @@
-["kalooban","ayos","kagustuhan","probisyon"]
+kalooban
+ayos
+kagustuhan
+probisyon

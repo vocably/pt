@@ -1,1 +1,3 @@
-["võluv","lummav","hurmav"]
+võluv
+lummav
+hurmav

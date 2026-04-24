@@ -1,1 +1,3 @@
-["integrita","bezúhonnost","neporušenost"]
+integrita
+bezúhonnost
+neporušenost

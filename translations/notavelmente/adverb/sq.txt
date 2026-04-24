@@ -1,1 +1,3 @@
-["dukshëm","veçanërisht","konsiderueshëm"]
+dukshëm
+veçanërisht
+konsiderueshëm

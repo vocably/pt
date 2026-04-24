@@ -1,1 +1,3 @@
-["kapansin-pansin","halata","kilala"]
+kapansin-pansin
+halata
+kilala

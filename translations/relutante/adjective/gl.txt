@@ -1,1 +1,3 @@
-["reticente","renitente","remiso"]
+reticente
+renitente
+remiso

@@ -1,1 +1,3 @@
-["terviklikkus","ausus","puutumatus"]
+terviklikkus
+ausus
+puutumatus

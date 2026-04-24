@@ -1,1 +1,3 @@
-["teësinnig","weerwillig","huiwerig"]
+teësinnig
+weerwillig
+huiwerig

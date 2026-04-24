@@ -1,1 +1,3 @@
-["repercussion","impact","echo"]
+repercussion
+impact
+echo

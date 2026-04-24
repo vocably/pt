@@ -1,1 +1,3 @@
-["hoʻohihi","uʻi","hiamoe"]
+hoʻohihi
+uʻi
+hiamoe

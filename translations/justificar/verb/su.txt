@@ -1,1 +1,3 @@
-["ngabenerkeun","ngabuktikeun","ngajelaskeun"]
+ngabenerkeun
+ngabuktikeun
+ngajelaskeun

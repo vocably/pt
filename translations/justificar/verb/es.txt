@@ -1,1 +1,3 @@
-["justificar","explicar","justar"]
+justificar
+explicar
+justar

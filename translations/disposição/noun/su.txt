@@ -1,1 +1,4 @@
-["sumanget","kahayang","aturan","tata"]
+sumanget
+kahayang
+aturan
+tata

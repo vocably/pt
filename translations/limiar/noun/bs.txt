@@ -1,1 +1,3 @@
-["prag","početak","granica"]
+prag
+početak
+granica

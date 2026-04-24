@@ -1,1 +1,3 @@
-["tino","rawa","hira"]
+tino
+rawa
+hira

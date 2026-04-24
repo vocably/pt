@@ -1,1 +1,3 @@
-["očaravajući","šarmantan","začaran"]
+očaravajući
+šarmantan
+začaran

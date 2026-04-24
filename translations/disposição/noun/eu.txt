@@ -1,1 +1,4 @@
-["gogoa","antolamendua","prestutasuna","xedapena"]
+gogoa
+antolamendua
+prestutasuna
+xedapena

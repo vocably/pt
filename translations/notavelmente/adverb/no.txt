@@ -1,1 +1,3 @@
-["betydelig","merkbart","bemerkelsesverdig"]
+betydelig
+merkbart
+bemerkelsesverdig

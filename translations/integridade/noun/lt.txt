@@ -1,1 +1,3 @@
-["vientisumas","sąžiningumas","nepriekaištingumas"]
+vientisumas
+sąžiningumas
+nepriekaištingumas

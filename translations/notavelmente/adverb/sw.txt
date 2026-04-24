@@ -1,1 +1,3 @@
-["hasa","kwa kiasi kikubwa","ajabu"]
+hasa
+kwa kiasi kikubwa
+ajabu

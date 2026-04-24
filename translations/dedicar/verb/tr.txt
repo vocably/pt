@@ -1,1 +1,3 @@
-["adamak","ithaf etmek","kendini vermek"]
+adamak
+ithaf etmek
+kendini vermek

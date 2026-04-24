@@ -1,1 +1,3 @@
-["avy hatrany","faingana","tsy misy hataka andro"]
+avy hatrany
+faingana
+tsy misy hataka andro

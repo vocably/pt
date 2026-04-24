@@ -1,1 +1,2 @@
-["ngokungachazwanga","ngokungathethwanga"]
+ngokungachazwanga
+ngokungathethwanga

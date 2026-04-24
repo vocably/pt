@@ -1,1 +1,3 @@
-["wegah","sungkan","emoh"]
+wegah
+sungkan
+emoh

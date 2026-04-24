@@ -1,1 +1,3 @@
-["pateisinti","pagrįsti","išlyginti"]
+pateisinti
+pagrįsti
+išlyginti

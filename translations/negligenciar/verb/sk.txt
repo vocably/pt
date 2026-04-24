@@ -1,1 +1,3 @@
-["zanedbávať","zľahčovať","opomenúť"]
+zanedbávať
+zľahčovať
+opomenúť

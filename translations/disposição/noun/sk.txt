@@ -1,1 +1,4 @@
-["nálada","rozpoloženie","usporiadanie","ustanovenie"]
+nálada
+rozpoloženie
+usporiadanie
+ustanovenie

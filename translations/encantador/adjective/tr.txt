@@ -1,1 +1,3 @@
-["büyüleyici","çekici","cazibeli"]
+büyüleyici
+çekici
+cazibeli

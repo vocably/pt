@@ -1,1 +1,3 @@
-["zanemariti","zapostaviti","izostaviti"]
+zanemariti
+zapostaviti
+izostaviti

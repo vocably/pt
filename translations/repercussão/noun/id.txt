@@ -1,1 +1,3 @@
-["dampak","gema","pengaruh"]
+dampak
+gema
+pengaruh

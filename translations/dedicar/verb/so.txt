@@ -1,1 +1,3 @@
-["u huray","u go'ay","u hibeeyay"]
+u huray
+u go'ay
+u hibeeyay

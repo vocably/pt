@@ -1,1 +1,4 @@
-["tagħraf","tirrikonoxxi","tammira","tistħarreġ"]
+tagħraf
+tirrikonoxxi
+tammira
+tistħarreġ

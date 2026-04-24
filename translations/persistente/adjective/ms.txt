@@ -1,1 +1,3 @@
-["gigih","tabah","berterusan"]
+gigih
+tabah
+berterusan

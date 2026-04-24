@@ -1,1 +1,3 @@
-["natija","oqibat","yakun"]
+natija
+oqibat
+yakun

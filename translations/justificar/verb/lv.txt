@@ -1,1 +1,3 @@
-["attaisnot","pamatojums","izlidzinat"]
+attaisnot
+pamatojums
+izlidzinat

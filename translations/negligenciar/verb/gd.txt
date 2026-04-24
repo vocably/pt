@@ -1,1 +1,3 @@
-["dearmad a dhèanamh air","neo-chùram a ghabhail mu","fàgail air chùl"]
+dearmad a dhèanamh air
+neo-chùram a ghabhail mu
+fàgail air chùl

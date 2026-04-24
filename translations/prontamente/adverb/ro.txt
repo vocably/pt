@@ -1,1 +1,3 @@
-["imediat","prompt","rapid"]
+imediat
+prompt
+rapid

@@ -1,1 +1,3 @@
-["llindar","sindria","començament"]
+llindar
+sindria
+començament

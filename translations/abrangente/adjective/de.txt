@@ -1,1 +1,2 @@
-["umfassend","weit"]
+umfassend
+weit

@@ -1,1 +1,3 @@
-["qwalasela","cinga","thabatha uqwalaselo"]
+qwalasela
+cinga
+thabatha uqwalaselo

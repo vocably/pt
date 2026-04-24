@@ -1,1 +1,3 @@
-["vonakodó","habozó","ellenálló"]
+vonakodó
+habozó
+ellenálló

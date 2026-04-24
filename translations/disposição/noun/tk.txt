@@ -1,1 +1,4 @@
-["niýet","meýil","düzgün","karar"]
+niýet
+meýil
+düzgün
+karar

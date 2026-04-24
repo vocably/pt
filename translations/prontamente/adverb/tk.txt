@@ -1,1 +1,3 @@
-["derrew","çalt","basym"]
+derrew
+çalt
+basym

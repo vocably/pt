@@ -1,1 +1,2 @@
-["ampleksa","ampleksega"]
+ampleksa
+ampleksega

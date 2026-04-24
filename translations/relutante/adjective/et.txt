@@ -1,1 +1,3 @@
-["vastumeelne","tõrges","vastupanu osutav"]
+vastumeelne
+tõrges
+vastupanu osutav

@@ -1,1 +1,3 @@
-["misalasala","saro-kenatra","mahatohitra"]
+misalasala
+saro-kenatra
+mahatohitra

@@ -1,1 +1,3 @@
-["konsegwenza","eku","impatt"]
+konsegwenza
+eku
+impatt

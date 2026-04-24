@@ -1,1 +1,4 @@
-["Dispositioun","Uerdnung","Wëllen","Bestëmmung"]
+Dispositioun
+Uerdnung
+Wëllen
+Bestëmmung

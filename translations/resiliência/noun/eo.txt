@@ -1,1 +1,2 @@
-["rezistemo","rezistokapablo"]
+rezistemo
+rezistokapablo

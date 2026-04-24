@@ -1,1 +1,4 @@
-["karep","tata","kekarepan","katentuan"]
+karep
+tata
+kekarepan
+katentuan

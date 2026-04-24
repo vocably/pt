@@ -1,1 +1,3 @@
-["hurmaava","viehättävä","lumoava"]
+hurmaava
+viehättävä
+lumoava

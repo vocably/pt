@@ -1,1 +1,3 @@
-["widmen","weihen","sich hingeben"]
+widmen
+weihen
+sich hingeben

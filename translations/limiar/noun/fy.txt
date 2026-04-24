@@ -1,1 +1,3 @@
-["drompel","begjin","grins"]
+drompel
+begjin
+grins

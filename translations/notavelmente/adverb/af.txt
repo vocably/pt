@@ -1,1 +1,3 @@
-["notabel","aansienlik","merkwaardig"]
+notabel
+aansienlik
+merkwaardig

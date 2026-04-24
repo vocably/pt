@@ -1,1 +1,3 @@
-["mbuktekake","menehi alesan","ngaturake"]
+mbuktekake
+menehi alesan
+ngaturake

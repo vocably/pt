@@ -1,1 +1,3 @@
-["cyane","biragaragara","mu buryo bugaragara"]
+cyane
+biragaragara
+mu buryo bugaragara

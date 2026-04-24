@@ -1,1 +1,3 @@
-["inatçı","kalıcı","dayanıklı"]
+inatçı
+kalıcı
+dayanıklı

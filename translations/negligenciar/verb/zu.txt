@@ -1,1 +1,3 @@
-["ukunganaki","ukuziba","ukungazihluphi"]
+ukunganaki
+ukuziba
+ukungazihluphi

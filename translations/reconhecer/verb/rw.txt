@@ -1,1 +1,4 @@
-["kumenya","kwemera","gushimira","gusuzuma"]
+kumenya
+kwemera
+gushimira
+gusuzuma

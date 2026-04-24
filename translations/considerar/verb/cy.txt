@@ -1,1 +1,3 @@
-["ystyried","meddwl","cymryd i ystyriaeth"]
+ystyried
+meddwl
+cymryd i ystyriaeth

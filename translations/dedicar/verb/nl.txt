@@ -1,1 +1,3 @@
-["wijden","opdragen","zich toeleggen"]
+wijden
+opdragen
+zich toeleggen

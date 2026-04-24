@@ -1,1 +1,3 @@
-["õigustama","põhjendama","joondama"]
+õigustama
+põhjendama
+joondama

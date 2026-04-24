@@ -1,1 +1,3 @@
-["mempertimbangkan","memperhatikan","menganggap"]
+mempertimbangkan
+memperhatikan
+menganggap

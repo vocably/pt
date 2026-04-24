@@ -1,1 +1,3 @@
-["arduragabekeriaz jokatu","arreta ez jarri","betebeharra ez bete"]
+arduragabekeriaz jokatu
+arreta ez jarri
+betebeharra ez bete

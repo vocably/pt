@@ -1,1 +1,3 @@
-["notablement","considérablement","remarquablement"]
+notablement
+considérablement
+remarquablement

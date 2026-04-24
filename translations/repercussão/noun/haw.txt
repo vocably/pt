@@ -1,1 +1,3 @@
-["hopena","kūpinaʻi","hoʻololi"]
+hopena
+kūpinaʻi
+hoʻololi

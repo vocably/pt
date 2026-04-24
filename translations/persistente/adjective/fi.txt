@@ -1,1 +1,3 @@
-["sinnikäs","itsepäinen","kestävä"]
+sinnikäs
+itsepäinen
+kestävä

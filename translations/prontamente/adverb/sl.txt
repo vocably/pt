@@ -1,1 +1,3 @@
-["takoj","nemudoma","hitro"]
+takoj
+nemudoma
+hitro

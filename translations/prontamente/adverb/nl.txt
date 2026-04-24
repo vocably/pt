@@ -1,1 +1,3 @@
-["onmiddellijk","meteen","spoedig"]
+onmiddellijk
+meteen
+spoedig

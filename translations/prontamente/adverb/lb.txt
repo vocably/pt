@@ -1,1 +1,3 @@
-["direkt","séier","fluks"]
+direkt
+séier
+fluks

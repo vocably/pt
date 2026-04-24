@@ -1,1 +1,3 @@
-["seunach","àlainn","tarraingeach"]
+seunach
+àlainn
+tarraingeach

@@ -1,1 +1,3 @@
-["réttlæta","sanna sakleysi","færa rök fyrir"]
+réttlæta
+sanna sakleysi
+færa rök fyrir

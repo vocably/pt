@@ -1,1 +1,3 @@
-["negligere","forsømme","ignorere"]
+negligere
+forsømme
+ignorere

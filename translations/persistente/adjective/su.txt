@@ -1,1 +1,3 @@
-["teuneung","pageuh","kukuh"]
+teuneung
+pageuh
+kukuh

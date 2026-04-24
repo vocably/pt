@@ -1,1 +1,3 @@
-["riluttanti","eżitanti","kontrarju"]
+riluttanti
+eżitanti
+kontrarju

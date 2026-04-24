@@ -1,1 +1,3 @@
-["nelabprātīgs","nevēlīgs","pretojošs"]
+nelabprātīgs
+nevēlīgs
+pretojošs

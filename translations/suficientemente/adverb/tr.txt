@@ -1,1 +1,2 @@
-["yeterince","yeterli miktarda"]
+yeterince
+yeterli miktarda

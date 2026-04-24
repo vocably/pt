@@ -1,1 +1,2 @@
-["dayanıqlılıq","elastiklik"]
+dayanıqlılıq
+elastiklik

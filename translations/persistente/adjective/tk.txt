@@ -1,1 +1,3 @@
-["tutukly","gaýtalap duran","dowamly"]
+tutukly
+gaýtalap duran
+dowamly

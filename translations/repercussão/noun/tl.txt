@@ -1,1 +1,3 @@
-["epekto","bunga","alingawngaw"]
+epekto
+bunga
+alingawngaw

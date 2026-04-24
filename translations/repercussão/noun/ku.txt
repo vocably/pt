@@ -1,1 +1,3 @@
-["encam","dengvedan","bandor"]
+encam
+dengvedan
+bandor

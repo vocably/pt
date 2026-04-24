@@ -1,1 +1,3 @@
-["significativu","impurtante","cunsiderevule"]
+significativu
+impurtante
+cunsiderevule

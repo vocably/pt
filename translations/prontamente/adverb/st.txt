@@ -1,1 +1,3 @@
-["hang-hang","ka pele","kaha"]
+hang-hang
+ka pele
+kaha

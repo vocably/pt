@@ -1,1 +1,3 @@
-["oqla","asosla","tekisla"]
+oqla
+asosla
+tekisla

@@ -1,1 +1,3 @@
-["runako","akanaka","anoyevedza"]
+runako
+akanaka
+anoyevedza

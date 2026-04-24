@@ -1,1 +1,3 @@
-["sakamako","nasara","ci gaba"]
+sakamako
+nasara
+ci gaba

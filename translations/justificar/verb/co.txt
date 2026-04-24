@@ -1,1 +1,3 @@
-["ghjustificà","scusà","parà"]
+ghjustificà
+scusà
+parà

@@ -1,1 +1,3 @@
-["kohe","viivitamatult","valmisolekuga"]
+kohe
+viivitamatult
+valmisolekuga

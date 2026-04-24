@@ -1,1 +1,3 @@
-["hấp dẫn","quyến rũ","đáng yêu"]
+hấp dẫn
+quyến rũ
+đáng yêu

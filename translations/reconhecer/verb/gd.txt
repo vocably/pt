@@ -1,1 +1,4 @@
-["aithnich","aidich","thoir taing","sgrùd"]
+aithnich
+aidich
+thoir taing
+sgrùd

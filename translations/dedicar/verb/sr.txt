@@ -1,1 +1,3 @@
-["posvetiti","predati","pokloniti"]
+posvetiti
+predati
+pokloniti

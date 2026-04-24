@@ -1,1 +1,3 @@
-["signifa","grava","konsiderinda"]
+signifa
+grava
+konsiderinda

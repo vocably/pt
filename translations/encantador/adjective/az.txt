@@ -1,1 +1,3 @@
-["cazibədar","məftunedici","ovsunlayıcı"]
+cazibədar
+məftunedici
+ovsunlayıcı

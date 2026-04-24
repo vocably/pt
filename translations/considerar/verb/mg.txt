@@ -1,1 +1,3 @@
-["mandinika","mihevitra","mandray"]
+mandinika
+mihevitra
+mandray

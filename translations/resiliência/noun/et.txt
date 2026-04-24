@@ -1,1 +1,2 @@
-["vastupanuvõime","elastsus"]
+vastupanuvõime
+elastsus

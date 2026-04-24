@@ -1,1 +1,3 @@
-["pono","kūpaʻa","paʻa"]
+pono
+kūpaʻa
+paʻa

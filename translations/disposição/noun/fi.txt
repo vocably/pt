@@ -1,1 +1,4 @@
-["mieliala","järjestely","halukkuus","määräys"]
+mieliala
+järjestely
+halukkuus
+määräys

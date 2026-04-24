@@ -1,1 +1,3 @@
-["phello","mokgosi","kgahlamelo"]
+phello
+mokgosi
+kgahlamelo

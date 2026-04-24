@@ -1,1 +1,3 @@
-["omgående","straks","hurtigt"]
+omgående
+straks
+hurtigt

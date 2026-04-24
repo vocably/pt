@@ -1,1 +1,4 @@
-["nastrój","układ","rozporządzenie","rozmieszczenie"]
+nastrój
+układ
+rozporządzenie
+rozmieszczenie

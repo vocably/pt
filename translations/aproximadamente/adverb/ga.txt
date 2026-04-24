@@ -1,1 +1,2 @@
-["thart ar","tuairim is"]
+thart ar
+tuairim is

@@ -1,1 +1,3 @@
-["dayacin","iskana fulin","ka gaabin"]
+dayacin
+iskana fulin
+ka gaabin

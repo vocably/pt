@@ -1,1 +1,3 @@
-["reticent","ezitant","împotrivitor"]
+reticent
+ezitant
+împotrivitor

@@ -1,1 +1,3 @@
-["da sauri","nan da nan","ba tare da bata lokaci ba"]
+da sauri
+nan da nan
+ba tare da bata lokaci ba

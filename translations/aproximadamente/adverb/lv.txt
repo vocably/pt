@@ -1,1 +1,2 @@
-["aptuveni","apmēram"]
+aptuveni
+apmēram

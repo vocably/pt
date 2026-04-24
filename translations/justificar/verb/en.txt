@@ -1,1 +1,3 @@
-["justify","explain","align"]
+justify
+explain
+align

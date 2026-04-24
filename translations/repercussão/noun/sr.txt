@@ -1,1 +1,3 @@
-["posledica","odjek","uticaj"]
+posledica
+odjek
+uticaj

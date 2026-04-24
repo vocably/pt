@@ -1,1 +1,3 @@
-["go hiontach","go suntasach","go mór"]
+go hiontach
+go suntasach
+go mór

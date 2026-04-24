@@ -1,1 +1,4 @@
-["dispozicion","rregullim","vullnet","gatishmëri"]
+dispozicion
+rregullim
+vullnet
+gatishmëri

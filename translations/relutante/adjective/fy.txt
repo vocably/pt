@@ -1,1 +1,3 @@
-["wifel","ôfhâldend","tsjinnich"]
+wifel
+ôfhâldend
+tsjinnich

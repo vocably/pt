@@ -1,1 +1,2 @@
-["tsy an-kolaka","an-kolaka"]
+tsy an-kolaka
+an-kolaka

@@ -1,1 +1,3 @@
-["üns bermezlik","ähmiýet bermezlik","ýaltalyk etmek"]
+üns bermezlik
+ähmiýet bermezlik
+ýaltalyk etmek

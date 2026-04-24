@@ -1,1 +1,3 @@
-["kanthi nyolok","banget","akeh"]
+kanthi nyolok
+banget
+akeh

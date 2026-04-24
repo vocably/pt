@@ -1,1 +1,3 @@
-["overveje","betragte","tage i betragtning"]
+overveje
+betragte
+tage i betragtning

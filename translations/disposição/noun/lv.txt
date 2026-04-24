@@ -1,1 +1,4 @@
-["noskaņojums","izvietojums","rīcība","noteikums"]
+noskaņojums
+izvietojums
+rīcība
+noteikums

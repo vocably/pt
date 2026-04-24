@@ -1,1 +1,4 @@
-["tanimoq","e'tirof etmoq","minnatdorchilik bildirmoq","tekshirmoq"]
+tanimoq
+e'tirof etmoq
+minnatdorchilik bildirmoq
+tekshirmoq

@@ -1,1 +1,3 @@
-["jelentős","értelmes","figyelemre méltó"]
+jelentős
+értelmes
+figyelemre méltó

@@ -1,1 +1,3 @@
-["apleisti","nepaisyti","užleisti"]
+apleisti
+nepaisyti
+užleisti

@@ -1,1 +1,3 @@
-["menjëherë","shpejt","pa vonesë"]
+menjëherë
+shpejt
+pa vonesë

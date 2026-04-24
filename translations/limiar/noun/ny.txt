@@ -1,1 +1,3 @@
-["khomo","chiyambi","mulingo"]
+khomo
+chiyambi
+mulingo

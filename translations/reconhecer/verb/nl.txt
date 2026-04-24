@@ -1,1 +1,4 @@
-["herkennen","erkennen","waarderen","onderzoeken"]
+herkennen
+erkennen
+waarderen
+onderzoeken

@@ -1,1 +1,3 @@
-["atbalss","sekas","ietekme"]
+atbalss
+sekas
+ietekme

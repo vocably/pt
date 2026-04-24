@@ -1,1 +1,3 @@
-["ngwa ngwa","ozigbo","na ntabi anya"]
+ngwa ngwa
+ozigbo
+na ntabi anya

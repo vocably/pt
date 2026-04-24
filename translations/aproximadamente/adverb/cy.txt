@@ -1,1 +1,2 @@
-["tua","tua fwy neu lai"]
+tua
+tua fwy neu lai

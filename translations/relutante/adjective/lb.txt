@@ -1,1 +1,3 @@
-["zögernd","ongern","widderstänneg"]
+zögernd
+ongern
+widderstänneg

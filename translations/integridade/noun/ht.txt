@@ -1,1 +1,3 @@
-["entegrite","onètete","pite"]
+entegrite
+onètete
+pite

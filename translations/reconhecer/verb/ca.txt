@@ -1,1 +1,4 @@
-["reconèixer","identificar","admetre","agrair"]
+reconèixer
+identificar
+admetre
+agrair

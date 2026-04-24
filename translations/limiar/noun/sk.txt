@@ -1,1 +1,3 @@
-["prah","hranica","začiatok"]
+prah
+hranica
+začiatok

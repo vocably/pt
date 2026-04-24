@@ -1,1 +1,3 @@
-["kupa","tsaurira","zvipira"]
+kupa
+tsaurira
+zvipira

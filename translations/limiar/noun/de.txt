@@ -1,1 +1,3 @@
-["die Schwelle","der Anfang","die Grenze"]
+die Schwelle
+der Anfang
+die Grenze

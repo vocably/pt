@@ -1,1 +1,3 @@
-["netije","gaýta","seslenme"]
+netije
+gaýta
+seslenme

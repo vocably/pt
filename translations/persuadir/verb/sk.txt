@@ -1,1 +1,2 @@
-["presvedčiť","prehovárať"]
+presvedčiť
+prehovárať

@@ -1,1 +1,3 @@
-["bon","bèl","atiran"]
+bon
+bèl
+atiran

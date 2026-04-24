@@ -1,1 +1,3 @@
-["ngantepkeun","ngantep","nglirwakkeun"]
+ngantepkeun
+ngantep
+nglirwakkeun

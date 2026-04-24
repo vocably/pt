@@ -1,1 +1,3 @@
-["tröskel","början","gräns"]
+tröskel
+början
+gräns

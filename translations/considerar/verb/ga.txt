@@ -1,1 +1,3 @@
-["machnamh a dhéanamh ar","meas a bheith agat ar","cur san áireamh"]
+machnamh a dhéanamh ar
+meas a bheith agat ar
+cur san áireamh

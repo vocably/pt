@@ -1,1 +1,3 @@
-["neglect","disregard","shirk"]
+neglect
+disregard
+shirk

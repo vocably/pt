@@ -1,1 +1,4 @@
-["isimo","ulungiselelo","amandla","ummiselo"]
+isimo
+ulungiselelo
+amandla
+ummiselo

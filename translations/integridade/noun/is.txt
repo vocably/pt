@@ -1,1 +1,3 @@
-["heilleika","heiðarleiki","óskemmd"]
+heilleika
+heiðarleiki
+óskemmd

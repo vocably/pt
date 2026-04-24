@@ -1,1 +1,3 @@
-["burvīgs","apburošs","valdzinošs"]
+burvīgs
+apburošs
+valdzinošs

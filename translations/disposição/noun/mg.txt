@@ -1,1 +1,4 @@
-["toe-tsaina","fandaharana","fahazotoana","fepetra"]
+toe-tsaina
+fandaharana
+fahazotoana
+fepetra

@@ -1,1 +1,4 @@
-["ricunnosce","ammette","ringrazià","esaminà"]
+ricunnosce
+ammette
+ringrazià
+esaminà

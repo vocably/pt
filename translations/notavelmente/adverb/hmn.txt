@@ -1,1 +1,3 @@
-["pom txawj","pom tseeb","pom meej"]
+pom txawj
+pom tseeb
+pom meej

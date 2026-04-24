@@ -1,1 +1,3 @@
-["natiijo","soo-saar","dhamaad"]
+natiijo
+soo-saar
+dhamaad

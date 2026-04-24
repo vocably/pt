@@ -1,1 +1,3 @@
-["ngokubalulekileyo","ngokuphawulekayo","kakhulu"]
+ngokubalulekileyo
+ngokuphawulekayo
+kakhulu

@@ -1,1 +1,2 @@
-["mukati","chinyararire"]
+mukati
+chinyararire

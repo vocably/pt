@@ -1,1 +1,3 @@
-["aklamak","esaslandyrmak","tekstiň gyralaryny deňlemek"]
+aklamak
+esaslandyrmak
+tekstiň gyralaryny deňlemek

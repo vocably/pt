@@ -1,1 +1,3 @@
-["konsekvens","efterdyning","genljud"]
+konsekvens
+efterdyning
+genljud

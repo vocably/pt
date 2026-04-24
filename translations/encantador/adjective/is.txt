@@ -1,1 +1,3 @@
-["heillandi","yndislegur","hrífandi"]
+heillandi
+yndislegur
+hrífandi

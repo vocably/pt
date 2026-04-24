@@ -1,1 +1,3 @@
-["konsekvens","efterklang","indflydelse"]
+konsekvens
+efterklang
+indflydelse

@@ -1,1 +1,4 @@
-["prepoznati","priznati","izraziti hvaležnost","raziskati"]
+prepoznati
+priznati
+izraziti hvaležnost
+raziskati

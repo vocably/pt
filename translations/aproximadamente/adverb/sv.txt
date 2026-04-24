@@ -1,1 +1,2 @@
-["ungefär","omkring"]
+ungefär
+omkring

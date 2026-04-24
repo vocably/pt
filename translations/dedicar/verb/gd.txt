@@ -1,1 +1,3 @@
-["coisrig","tiomnadh","dealraich"]
+coisrig
+tiomnadh
+dealraich

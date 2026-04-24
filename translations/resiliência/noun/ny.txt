@@ -1,1 +1,2 @@
-["Kulimba mtima","Kupirira"]
+Kulimba mtima
+Kupirira

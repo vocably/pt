@@ -1,1 +1,3 @@
-["ihärdig","envis","varaktig"]
+ihärdig
+envis
+varaktig

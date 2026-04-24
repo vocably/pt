@@ -1,1 +1,4 @@
-["rozpoznać","uznać","docenić","zbadać"]
+rozpoznać
+uznać
+docenić
+zbadać

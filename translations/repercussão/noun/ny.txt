@@ -1,1 +1,3 @@
-["zotsatira","kubweza","mphamvu"]
+zotsatira
+kubweza
+mphamvu

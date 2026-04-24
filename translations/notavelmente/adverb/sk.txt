@@ -1,1 +1,3 @@
-["pozoruhodne","výrazne","značne"]
+pozoruhodne
+výrazne
+značne

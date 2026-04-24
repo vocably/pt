@@ -1,1 +1,3 @@
-["indrindra","mahatalanjona","tsara"]
+indrindra
+mahatalanjona
+tsara

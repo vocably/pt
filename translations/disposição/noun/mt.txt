@@ -1,1 +1,4 @@
-["burdata","arranġament","rieda","dispożizzjoni"]
+burdata
+arranġament
+rieda
+dispożizzjoni

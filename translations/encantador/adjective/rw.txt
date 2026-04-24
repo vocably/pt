@@ -1,1 +1,3 @@
-["ibereye","inyura","igikundiro"]
+ibereye
+inyura
+igikundiro

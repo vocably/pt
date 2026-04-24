@@ -1,1 +1,3 @@
-["ko'rib chiqmoq","hisobga olmoq","o'ylab ko'rmoq"]
+ko'rib chiqmoq
+hisobga olmoq
+o'ylab ko'rmoq

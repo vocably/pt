@@ -1,1 +1,3 @@
-["koke","koke koke","me ka wikiwiki"]
+koke
+koke koke
+me ka wikiwiki

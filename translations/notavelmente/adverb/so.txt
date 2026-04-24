@@ -1,1 +1,3 @@
-["si la dareemayo","si la arki karo","si la dareemi karo"]
+si la dareemayo
+si la arki karo
+si la dareemi karo

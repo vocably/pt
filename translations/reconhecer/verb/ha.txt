@@ -1,1 +1,4 @@
-["gane","sani","godiya","bincika"]
+gane
+sani
+godiya
+bincika

@@ -1,1 +1,2 @@
-["veerkragtigheid","resiliensie"]
+veerkragtigheid
+resiliensie

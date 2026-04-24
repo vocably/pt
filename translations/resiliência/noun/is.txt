@@ -1,1 +1,1 @@
-["seigle"]
+seigle

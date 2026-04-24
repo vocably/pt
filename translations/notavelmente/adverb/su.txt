@@ -1,1 +1,3 @@
-["sacara","katingal","kacida"]
+sacara
+katingal
+kacida

@@ -1,1 +1,2 @@
-["berfireh","fireh"]
+berfireh
+fireh

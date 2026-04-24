@@ -1,1 +1,3 @@
-["nenoriai","nedrąsiai","besipriešinantis"]
+nenoriai
+nedrąsiai
+besipriešinantis

@@ -1,1 +1,2 @@
-["numanomai","netiesiogiai"]
+numanomai
+netiesiogiai

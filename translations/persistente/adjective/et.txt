@@ -1,1 +1,3 @@
-["püsiv","visa","järjekindel"]
+püsiv
+visa
+järjekindel

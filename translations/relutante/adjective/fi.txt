@@ -1,1 +1,3 @@
-["haluton","vastahakoinen","vastusteleva"]
+haluton
+vastahakoinen
+vastusteleva

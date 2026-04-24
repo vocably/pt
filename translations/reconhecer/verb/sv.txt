@@ -1,1 +1,4 @@
-["känna igen","erkänna","tacka för","undersöka"]
+känna igen
+erkänna
+tacka för
+undersöka

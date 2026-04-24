@@ -1,1 +1,3 @@
-["saameyn","dhawaaqcelin","soojeedin"]
+saameyn
+dhawaaqcelin
+soojeedin

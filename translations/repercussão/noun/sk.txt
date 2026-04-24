@@ -1,1 +1,3 @@
-["dôsledok","ozvena","vplyv"]
+dôsledok
+ozvena
+vplyv

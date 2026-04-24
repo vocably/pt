@@ -1,1 +1,3 @@
-["hasil","akibat","keputusan"]
+hasil
+akibat
+keputusan

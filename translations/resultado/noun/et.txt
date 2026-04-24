@@ -1,1 +1,3 @@
-["tulemus","tagajärg","saadus"]
+tulemus
+tagajärg
+saadus

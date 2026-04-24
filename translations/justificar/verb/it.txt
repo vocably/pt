@@ -1,1 +1,3 @@
-["giustificare","motivare","allineare"]
+giustificare
+motivare
+allineare

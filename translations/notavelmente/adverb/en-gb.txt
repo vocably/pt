@@ -1,1 +1,3 @@
-["notably","remarkably","considerably"]
+notably
+remarkably
+considerably

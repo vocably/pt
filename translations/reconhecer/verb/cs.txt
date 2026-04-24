@@ -1,1 +1,4 @@
-["poznat","uznat","ocenit","prozkoumat"]
+poznat
+uznat
+ocenit
+prozkoumat

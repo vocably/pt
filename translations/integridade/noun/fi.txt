@@ -1,1 +1,3 @@
-["eheys","rehellisyys","koskemattomuus"]
+eheys
+rehellisyys
+koskemattomuus

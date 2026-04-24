@@ -1,1 +1,3 @@
-["katapatan","integridad","pagiging buo"]
+katapatan
+integridad
+pagiging buo

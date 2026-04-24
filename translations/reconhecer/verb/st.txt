@@ -1,1 +1,4 @@
-["tseba","dumela","leboha","hlahloba"]
+tseba
+dumela
+leboha
+hlahloba

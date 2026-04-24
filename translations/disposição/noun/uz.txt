@@ -1,1 +1,4 @@
-["kayfiyat","joylashuv","xohish","qoida"]
+kayfiyat
+joylashuv
+xohish
+qoida

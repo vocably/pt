@@ -1,1 +1,3 @@
-["ukucabanga","ukubheka","ukucabangela"]
+ukucabanga
+ukubheka
+ukucabangela

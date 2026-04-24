@@ -1,1 +1,3 @@
-["prontamente","axiña","logo"]
+prontamente
+axiña
+logo

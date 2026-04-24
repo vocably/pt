@@ -1,1 +1,3 @@
-["consider","deem","take into account"]
+consider
+deem
+take into account

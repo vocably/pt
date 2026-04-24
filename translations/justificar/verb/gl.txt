@@ -1,1 +1,3 @@
-["xustificar","probar","aliñar"]
+xustificar
+probar
+aliñar

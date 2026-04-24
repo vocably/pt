@@ -1,1 +1,2 @@
-["taxminan","qariyb"]
+taxminan
+qariyb

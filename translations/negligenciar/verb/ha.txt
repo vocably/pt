@@ -1,1 +1,3 @@
-["sakaci","manta","ƙyale"]
+sakaci
+manta
+ƙyale

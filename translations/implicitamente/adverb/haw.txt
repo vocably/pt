@@ -1,1 +1,2 @@
-["huna","kūnoa"]
+huna
+kūnoa

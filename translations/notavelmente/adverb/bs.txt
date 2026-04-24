@@ -1,1 +1,3 @@
-["značajno","primjetno","izuzetno"]
+značajno
+primjetno
+izuzetno

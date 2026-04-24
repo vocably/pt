@@ -1,1 +1,3 @@
-["betsjoerend","tsjoened","sjarmerend"]
+betsjoerend
+tsjoened
+sjarmerend

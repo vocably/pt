@@ -1,1 +1,3 @@
-["e iloga","e mataʻina","e sili ona"]
+e iloga
+e mataʻina
+e sili ona

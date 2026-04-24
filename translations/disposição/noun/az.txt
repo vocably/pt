@@ -1,1 +1,4 @@
-["əhval-ruhiyyə","tərtibat","iradə","müddəa"]
+əhval-ruhiyyə
+tərtibat
+iradə
+müddəa

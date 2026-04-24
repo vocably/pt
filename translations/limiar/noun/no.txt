@@ -1,1 +1,3 @@
-["terskel","begynnelse","grense"]
+terskel
+begynnelse
+grense

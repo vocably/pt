@@ -1,1 +1,3 @@
-["terutama","sangat","khususnya"]
+terutama
+sangat
+khususnya

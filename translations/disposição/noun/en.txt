@@ -1,1 +1,4 @@
-["disposition","arrangement","will","provision"]
+disposition
+arrangement
+will
+provision

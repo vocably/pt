@@ -1,1 +1,3 @@
-["ievērojami","manāmi","ievērojamā mērā"]
+ievērojami
+manāmi
+ievērojamā mērā

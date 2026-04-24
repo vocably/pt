@@ -1,1 +1,3 @@
-["limiar","soleira","comezo"]
+limiar
+soleira
+comezo

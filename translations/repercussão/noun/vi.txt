@@ -1,1 +1,3 @@
-["hậu quả","tiếng vang","ảnh hưởng"]
+hậu quả
+tiếng vang
+ảnh hưởng

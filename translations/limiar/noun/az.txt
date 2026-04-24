@@ -1,1 +1,3 @@
-["eşik","astana","hədd"]
+eşik
+astana
+hədd

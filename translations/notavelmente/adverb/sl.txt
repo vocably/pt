@@ -1,1 +1,3 @@
-["opazno","predvsem","zelo"]
+opazno
+predvsem
+zelo

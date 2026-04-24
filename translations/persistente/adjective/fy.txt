@@ -1,1 +1,3 @@
-["oanhâldend","koppich","duorsum"]
+oanhâldend
+koppich
+duorsum

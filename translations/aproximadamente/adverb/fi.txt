@@ -1,1 +1,2 @@
-["noin","suunnilleen"]
+noin
+suunnilleen

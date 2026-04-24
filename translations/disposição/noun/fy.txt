@@ -1,1 +1,4 @@
-["ynset","regeling","foarskreaun","wil"]
+ynset
+regeling
+foarskreaun
+wil

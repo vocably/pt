@@ -1,1 +1,3 @@
-["drogallach","leisceach","frithsheasmhach"]
+drogallach
+leisceach
+frithsheasmhach

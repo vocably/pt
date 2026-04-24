@@ -1,1 +1,4 @@
-["Aqoonso","Qiro","Mahadnaq","Baadh"]
+Aqoonso
+Qiro
+Mahadnaq
+Baadh

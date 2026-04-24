@@ -1,1 +1,3 @@
-["očarljiv","čudovit","privlačen"]
+očarljiv
+čudovit
+privlačen

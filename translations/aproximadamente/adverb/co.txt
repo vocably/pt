@@ -1,1 +1,2 @@
-["circa","approssimativamente"]
+circa
+approssimativamente

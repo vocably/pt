@@ -1,1 +1,4 @@
-["dispusizioni","urganizazioni","vogliu","energia"]
+dispusizioni
+urganizazioni
+vogliu
+energia

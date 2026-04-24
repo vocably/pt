@@ -1,1 +1,2 @@
-["jembar","amba"]
+jembar
+amba

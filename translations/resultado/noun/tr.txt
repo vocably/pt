@@ -1,1 +1,3 @@
-["sonuç","netice","çıktı"]
+sonuç
+netice
+çıktı

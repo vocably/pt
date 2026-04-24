@@ -1,1 +1,3 @@
-["msanga","nthawi yomweyo","posachedwa"]
+msanga
+nthawi yomweyo
+posachedwa

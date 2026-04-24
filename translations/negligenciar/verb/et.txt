@@ -1,1 +1,3 @@
-["hooletusse jätma","eirama","tähelepanuta jätma"]
+hooletusse jätma
+eirama
+tähelepanuta jätma

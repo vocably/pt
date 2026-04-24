@@ -1,1 +1,3 @@
-["négliger","manquer à","négliger de"]
+négliger
+manquer à
+négliger de

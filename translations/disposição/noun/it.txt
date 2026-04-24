@@ -1,1 +1,4 @@
-["disposizione","umore","ordinamento","volontà"]
+disposizione
+umore
+ordinamento
+volontà

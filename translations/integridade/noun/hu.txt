@@ -1,1 +1,3 @@
-["teljesség","feddhetetlenség","sértetlenség"]
+teljesség
+feddhetetlenség
+sértetlenség

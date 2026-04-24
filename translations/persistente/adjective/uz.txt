@@ -1,1 +1,3 @@
-["qat'iyatli","tirishqoq","bardoshli"]
+qat'iyatli
+tirishqoq
+bardoshli

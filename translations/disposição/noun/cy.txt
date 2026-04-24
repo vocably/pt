@@ -1,1 +1,4 @@
-["tuedd","awydd","darpariaeth","gorchymyn"]
+tuedd
+awydd
+darpariaeth
+gorchymyn

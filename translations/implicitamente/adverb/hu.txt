@@ -1,1 +1,2 @@
-["hallgatólagosan","burkoltan"]
+hallgatólagosan
+burkoltan

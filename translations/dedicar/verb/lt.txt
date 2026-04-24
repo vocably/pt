@@ -1,1 +1,3 @@
-["paskirti","pašvęsti","atsiduoti"]
+paskirti
+pašvęsti
+atsiduoti

@@ -1,1 +1,3 @@
-["integrità","onestà","completezza"]
+integrità
+onestà
+completezza

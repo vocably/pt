@@ -1,1 +1,3 @@
-["botle","kgahlehang","kgahleho"]
+botle
+kgahlehang
+kgahleho

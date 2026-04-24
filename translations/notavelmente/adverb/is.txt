@@ -1,1 +1,3 @@
-["sannarlega","athyglisvert","verulega"]
+sannarlega
+athyglisvert
+verulega

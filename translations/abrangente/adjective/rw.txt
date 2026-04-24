@@ -1,1 +1,2 @@
-["byinshi","ngari"]
+byinshi
+ngari

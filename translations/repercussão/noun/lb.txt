@@ -1,1 +1,3 @@
-["Auswierkung","Widderhall","Impakt"]
+Auswierkung
+Widderhall
+Impakt

@@ -1,1 +1,3 @@
-["konsekans","eko","enpak"]
+konsekans
+eko
+enpak

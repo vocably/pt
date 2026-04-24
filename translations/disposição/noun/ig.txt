@@ -1,1 +1,4 @@
-["ọnọdụ","nhazi","ike","iwu"]
+ọnọdụ
+nhazi
+ike
+iwu

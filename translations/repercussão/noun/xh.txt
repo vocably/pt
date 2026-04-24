@@ -1,1 +1,3 @@
-["isiphumo","intlalo","impembelelo"]
+isiphumo
+intlalo
+impembelelo

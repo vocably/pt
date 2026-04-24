@@ -1,1 +1,3 @@
-["znacznie","wyraźnie","znacząco"]
+znacznie
+wyraźnie
+znacząco

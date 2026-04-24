@@ -1,1 +1,3 @@
-["whakaroaroa","ngakau-rua","āka-rua"]
+whakaroaroa
+ngakau-rua
+āka-rua

@@ -1,1 +1,3 @@
-["charming","enchanting","captivating"]
+charming
+enchanting
+captivating

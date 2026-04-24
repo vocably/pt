@@ -1,1 +1,2 @@
-["ongeveer","omtrent"]
+ongeveer
+omtrent

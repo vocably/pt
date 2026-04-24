@@ -1,1 +1,3 @@
-["nedelsiant","tuojau pat","greitai"]
+nedelsiant
+tuojau pat
+greitai

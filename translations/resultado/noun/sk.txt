@@ -1,1 +1,3 @@
-["výsledok","dôsledok","súčet"]
+výsledok
+dôsledok
+súčet

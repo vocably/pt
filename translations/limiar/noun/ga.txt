@@ -1,1 +1,3 @@
-["tairseach","tús","pointe tosaigh"]
+tairseach
+tús
+pointe tosaigh

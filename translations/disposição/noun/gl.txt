@@ -1,1 +1,4 @@
-["disposición","arranxo","vontade","determinación"]
+disposición
+arranxo
+vontade
+determinación

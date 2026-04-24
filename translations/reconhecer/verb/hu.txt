@@ -1,1 +1,4 @@
-["felismer","elismer","hálát ad","megvizsgál"]
+felismer
+elismer
+hálát ad
+megvizsgál

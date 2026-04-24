@@ -1,1 +1,3 @@
-["tezda","darhol","zudlik bilan"]
+tezda
+darhol
+zudlik bilan

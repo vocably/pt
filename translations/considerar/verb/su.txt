@@ -1,1 +1,3 @@
-["nganggap","ngémutan","merhatikeun"]
+nganggap
+ngémutan
+merhatikeun

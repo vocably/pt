@@ -1,1 +1,3 @@
-["papòt","kòmansman","seuil"]
+papòt
+kòmansman
+seuil

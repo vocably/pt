@@ -1,1 +1,2 @@
-["kusan","kimanin"]
+kusan
+kimanin

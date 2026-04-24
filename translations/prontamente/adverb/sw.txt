@@ -1,1 +1,3 @@
-["mara moja","haraka","bila kuchelewa"]
+mara moja
+haraka
+bila kuchelewa

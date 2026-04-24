@@ -1,1 +1,3 @@
-["ngay lập tức","nhanh chóng","sẵn lòng"]
+ngay lập tức
+nhanh chóng
+sẵn lòng

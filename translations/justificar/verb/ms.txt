@@ -1,1 +1,3 @@
-["membuktikan","membenarkan","menyelaraskan"]
+membuktikan
+membenarkan
+menyelaraskan

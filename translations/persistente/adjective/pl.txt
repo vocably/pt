@@ -1,1 +1,3 @@
-["wytrwały","uparty","długotrwały"]
+wytrwały
+uparty
+długotrwały

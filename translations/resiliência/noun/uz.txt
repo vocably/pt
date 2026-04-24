@@ -1,1 +1,2 @@
-["moslashuvchanlik","elastiklik"]
+moslashuvchanlik
+elastiklik

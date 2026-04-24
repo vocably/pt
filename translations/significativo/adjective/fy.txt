@@ -1,1 +1,3 @@
-["betsjuttingfol","wichtich","oansjenlik"]
+betsjuttingfol
+wichtich
+oansjenlik

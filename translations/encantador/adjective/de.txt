@@ -1,1 +1,3 @@
-["bezaubernd","charmant","hinreißend"]
+bezaubernd
+charmant
+hinreißend

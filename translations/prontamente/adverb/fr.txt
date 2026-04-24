@@ -1,1 +1,3 @@
-["rapidement","promptement","sans tarder"]
+rapidement
+promptement
+sans tarder

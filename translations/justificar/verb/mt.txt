@@ -1,1 +1,3 @@
-["tiġġustifika","tipprova","tiddritta"]
+tiġġustifika
+tipprova
+tiddritta

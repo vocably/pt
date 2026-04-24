@@ -1,1 +1,3 @@
-["ezitan","refize","rezistan"]
+ezitan
+refize
+rezistan

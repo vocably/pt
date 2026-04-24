@@ -1,1 +1,3 @@
-["segera","dengan sigap","dengan tangkas"]
+segera
+dengan sigap
+dengan tangkas

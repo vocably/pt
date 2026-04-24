@@ -1,1 +1,3 @@
-["konsakre","dedye","devwe"]
+konsakre
+dedye
+devwe

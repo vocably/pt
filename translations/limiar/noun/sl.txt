@@ -1,1 +1,3 @@
-["prag","začetek","meja"]
+prag
+začetek
+meja

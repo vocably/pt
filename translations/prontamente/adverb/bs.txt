@@ -1,1 +1,3 @@
-["odmah","brzo","spremno"]
+odmah
+brzo
+spremno

@@ -1,1 +1,2 @@
-["približne","okolo"]
+približne
+okolo

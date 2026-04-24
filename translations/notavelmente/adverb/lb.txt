@@ -1,1 +1,3 @@
-["bem","ganz","wierklech"]
+bem
+ganz
+wierklech

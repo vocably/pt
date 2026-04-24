@@ -1,1 +1,3 @@
-["kesan","impak","gema"]
+kesan
+impak
+gema

@@ -1,1 +1,2 @@
-["hlokomelang","qaphelang"]
+hlokomelang
+qaphelang

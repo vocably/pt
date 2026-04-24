@@ -1,1 +1,3 @@
-["reperkusja","echo","oddźwięk"]
+reperkusja
+echo
+oddźwięk

@@ -1,1 +1,3 @@
-["vernaachläss","vernoléissegen","net këmmeren"]
+vernaachläss
+vernoléissegen
+net këmmeren

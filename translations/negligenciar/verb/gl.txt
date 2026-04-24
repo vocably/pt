@@ -1,1 +1,3 @@
-["neglixir","desleixar","omitir"]
+neglixir
+desleixar
+omitir

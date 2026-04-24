@@ -1,1 +1,3 @@
-["prag","început","limită"]
+prag
+început
+limită

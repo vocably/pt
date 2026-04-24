@@ -1,1 +1,3 @@
-["rezultat","consecință","produs"]
+rezultat
+consecință
+produs

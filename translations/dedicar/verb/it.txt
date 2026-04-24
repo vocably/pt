@@ -1,1 +1,3 @@
-["dedicare","consacrare","votarsi"]
+dedicare
+consacrare
+votarsi

@@ -1,1 +1,3 @@
-["betrachten","halten für","berücksichtigen"]
+betrachten
+halten für
+berücksichtigen

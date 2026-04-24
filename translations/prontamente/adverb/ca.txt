@@ -1,1 +1,3 @@
-["ràpidament","immediatament","sense demora"]
+ràpidament
+immediatament
+sense demora

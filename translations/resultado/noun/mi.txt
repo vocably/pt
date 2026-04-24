@@ -1,1 +1,3 @@
-["hua","putanga","oatinga"]
+hua
+putanga
+oatinga

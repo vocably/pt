@@ -1,1 +1,3 @@
-["persistenti","kostanti","iebsa"]
+persistenti
+kostanti
+iebsa

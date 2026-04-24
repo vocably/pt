@@ -1,1 +1,4 @@
-["stemming","indeling","regeling","bepaling"]
+stemming
+indeling
+regeling
+bepaling

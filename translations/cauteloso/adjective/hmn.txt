@@ -1,1 +1,2 @@
-["cuidado","ceev"]
+cuidado
+ceev

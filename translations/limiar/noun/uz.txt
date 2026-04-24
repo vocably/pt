@@ -1,1 +1,3 @@
-["eshik osti","boshlanish","minimum daraja"]
+eshik osti
+boshlanish
+minimum daraja

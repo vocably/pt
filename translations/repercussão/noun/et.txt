@@ -1,1 +1,3 @@
-["tagajärg","kaja","mõju"]
+tagajärg
+kaja
+mõju

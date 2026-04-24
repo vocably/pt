@@ -1,1 +1,3 @@
-["integralność","uczciwość","nienaruszalność"]
+integralność
+uczciwość
+nienaruszalność

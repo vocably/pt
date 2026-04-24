@@ -1,1 +1,3 @@
-["Mālama ʻole","Hoʻowahāwahā","Kāpae"]
+Mālama ʻole
+Hoʻowahāwahā
+Kāpae

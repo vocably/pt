@@ -1,1 +1,3 @@
-["atari","hasiera","muga"]
+atari
+hasiera
+muga

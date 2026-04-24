@@ -1,1 +1,3 @@
-["kitartó","állhatatos","tartós"]
+kitartó
+állhatatos
+tartós

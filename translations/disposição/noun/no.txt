@@ -1,1 +1,4 @@
-["humør","arrangement","vilje","bestemmelse"]
+humør
+arrangement
+vilje
+bestemmelse

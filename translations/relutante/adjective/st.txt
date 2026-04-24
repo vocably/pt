@@ -1,1 +1,3 @@
-["ho qeaqea","ho honyela","ho hana"]
+ho qeaqea
+ho honyela
+ho hana

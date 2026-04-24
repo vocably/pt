@@ -1,1 +1,3 @@
-["nevoljan","oklevajući","nerad"]
+nevoljan
+oklevajući
+nerad

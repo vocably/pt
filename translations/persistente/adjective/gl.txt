@@ -1,1 +1,3 @@
-["persistente","obstinado","duradeiro"]
+persistente
+obstinado
+duradeiro

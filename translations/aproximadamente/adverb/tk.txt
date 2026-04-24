@@ -1,1 +1,2 @@
-["takmynan","töweregi"]
+takmynan
+töweregi

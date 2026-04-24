@@ -1,1 +1,3 @@
-["considerar","ponderar","ter em conta"]
+considerar
+ponderar
+ter em conta

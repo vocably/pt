@@ -1,1 +1,3 @@
-["descuidar","negligir","omitir"]
+descuidar
+negligir
+omitir

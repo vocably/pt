@@ -1,1 +1,3 @@
-["afleiðing","ómun","áhrif"]
+afleiðing
+ómun
+áhrif

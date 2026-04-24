@@ -1,1 +1,3 @@
-["pragu","fillim","nivel"]
+pragu
+fillim
+nivel

@@ -1,1 +1,4 @@
-["herken","erken","bedank","ondersoek"]
+herken
+erken
+bedank
+ondersoek

@@ -1,1 +1,3 @@
-["istaksiz","ikkinlanuvchi","qarshilik ko'rsatuvchi"]
+istaksiz
+ikkinlanuvchi
+qarshilik ko'rsatuvchi

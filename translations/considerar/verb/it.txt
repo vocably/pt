@@ -1,1 +1,3 @@
-["considerare","ritenere","valutare"]
+considerare
+ritenere
+valutare

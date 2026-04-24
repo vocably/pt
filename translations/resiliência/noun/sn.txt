@@ -1,1 +1,2 @@
-["kushinga","kusimba"]
+kushinga
+kusimba

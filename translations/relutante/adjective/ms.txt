@@ -1,1 +1,3 @@
-["enggan","segan","keberatan"]
+enggan
+segan
+keberatan

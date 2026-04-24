@@ -1,1 +1,3 @@
-["vedvarende","ihuga","langvarig"]
+vedvarende
+ihuga
+langvarig

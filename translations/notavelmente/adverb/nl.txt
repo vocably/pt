@@ -1,1 +1,3 @@
-["opmerkelijk","aanzienlijk","merkbaar"]
+opmerkelijk
+aanzienlijk
+merkbaar

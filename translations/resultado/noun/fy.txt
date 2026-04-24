@@ -1,1 +1,3 @@
-["gevolch","útkomst","resultaat"]
+gevolch
+útkomst
+resultaat

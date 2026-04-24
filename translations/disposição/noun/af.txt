@@ -1,1 +1,4 @@
-["stemming","reëling","wil","bepaling"]
+stemming
+reëling
+wil
+bepaling

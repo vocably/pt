@@ -1,1 +1,3 @@
-["hua","paoro","whakaawe"]
+hua
+paoro
+whakaawe

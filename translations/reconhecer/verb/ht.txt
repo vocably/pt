@@ -1,1 +1,4 @@
-["rekonèt","idantifye","admet","eksprese gratitid"]
+rekonèt
+idantifye
+admet
+eksprese gratitid

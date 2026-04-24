@@ -1,1 +1,3 @@
-["ibalulekile","enentsingiselo","enkulu"]
+ibalulekile
+enentsingiselo
+enkulu

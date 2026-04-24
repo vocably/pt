@@ -1,1 +1,2 @@
-["tsis qhia ncaj qha","hais tsis meej"]
+tsis qhia ncaj qha
+hais tsis meej

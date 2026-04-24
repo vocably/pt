@@ -1,1 +1,3 @@
-["emaitza","ondorio","soluzio"]
+emaitza
+ondorio
+soluzio

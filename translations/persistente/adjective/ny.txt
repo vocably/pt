@@ -1,1 +1,3 @@
-["wolimba mtima","wosatopa","wokhazikika"]
+wolimba mtima
+wosatopa
+wokhazikika

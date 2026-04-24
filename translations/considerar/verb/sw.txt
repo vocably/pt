@@ -1,1 +1,3 @@
-["kufikiria","kuchukulia","kuangalia"]
+kufikiria
+kuchukulia
+kuangalia

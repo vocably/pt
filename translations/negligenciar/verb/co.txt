@@ -1,1 +1,3 @@
-["trascurà","negligì","mancà"]
+trascurà
+negligì
+mancà

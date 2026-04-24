@@ -1,1 +1,3 @@
-["lawang","panto","ambang"]
+lawang
+panto
+ambang

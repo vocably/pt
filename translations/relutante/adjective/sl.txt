@@ -1,1 +1,3 @@
-["nejevoljen","odlašajoč","uporniški"]
+nejevoljen
+odlašajoč
+uporniški

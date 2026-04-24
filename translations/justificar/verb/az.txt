@@ -1,1 +1,3 @@
-["haqq qazandırmaq","əsaslandırmaq","səbəb göstərmək"]
+haqq qazandırmaq
+əsaslandırmaq
+səbəb göstərmək

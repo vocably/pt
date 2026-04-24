@@ -1,1 +1,3 @@
-["gifite agaciro","cy'ingenzi","kinini"]
+gifite agaciro
+cy'ingenzi
+kinini

@@ -1,1 +1,3 @@
-["gutindiganya","kuzuyaza","kwanga"]
+gutindiganya
+kuzuyaza
+kwanga

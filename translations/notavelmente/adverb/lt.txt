@@ -1,1 +1,3 @@
-["ypatingai","žymiai","nepaprastai"]
+ypatingai
+žymiai
+nepaprastai

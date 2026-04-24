@@ -1,1 +1,3 @@
-["kaakit-akit","nakakabighani","kahali-halina"]
+kaakit-akit
+nakakabighani
+kahali-halina

@@ -1,1 +1,4 @@
-["humör","arrangemang","vilja","bestämmelse"]
+humör
+arrangemang
+vilja
+bestämmelse
