@@ -1,0 +1,4 @@
+perspectiva
+panorama
+sum
+io

@@ -1,0 +1,4 @@
+assiette
+plat
+cymbale
+plateau

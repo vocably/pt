@@ -1,0 +1,4 @@
+patrón
+estándar
+modelo
+diseño

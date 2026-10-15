@@ -1,0 +1,4 @@
+recoger
+buscar
+espulgar
+cosechar

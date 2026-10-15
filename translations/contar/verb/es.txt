@@ -1,0 +1,5 @@
+contar
+narrar
+relatar
+calcular
+enumerar

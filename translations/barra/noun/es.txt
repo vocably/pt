@@ -1,0 +1,6 @@
+barra
+lingote
+banco de arena
+mostrador
+tribunal
+compás

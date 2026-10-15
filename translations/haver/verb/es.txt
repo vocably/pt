@@ -1,0 +1,4 @@
+haber
+existir
+ocurrir
+tener

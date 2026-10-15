@@ -1,0 +1,3 @@
+restar
+sustraer
+disminuir

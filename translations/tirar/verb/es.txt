@@ -1,0 +1,5 @@
+sacar
+quitar
+tomar
+obtener
+fotografiar

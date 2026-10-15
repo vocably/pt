@@ -1,0 +1,5 @@
+saison
+gare
+station
+arrêt
+période

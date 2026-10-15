@@ -1,0 +1,4 @@
+turn off
+erase
+delete
+put out
